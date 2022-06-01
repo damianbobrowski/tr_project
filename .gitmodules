@@ -1,0 +1,3 @@
+[submodule "app/locale"]
+	path = app/locale
+	url = https://github.com/damianbobrowski/tr_project_translations.git
